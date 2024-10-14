@@ -1,0 +1,8 @@
+manajemen_film\Film.class
+manajemen_film\Movie.class
+manajemen_film\MovieManager.class
+manajemen_film\ActionMovie.class
+manajemen_film\DramaMovie.class
+manajemen_film\CRUDOperations.class
+MainBioskop\Bioskop.class
+manajemen_genrefilm\Genre.class
